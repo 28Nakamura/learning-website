@@ -1,0 +1,213 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding-right: 85px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.home_b {
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 1920px) {
+    h1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 200px;
+        left: 261px;
+    }
+
+    .p_1 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 270px;
+        left: 261px;
+    }
+
+    .p_2 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 300px;
+        left: 261px;
+    }
+
+    .h2_1 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 440px;
+        left: 261px;
+    }
+    .p_3 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 490px;
+        left: 261px;
+    }
+
+    .pic_1 {
+        position: absolute;
+        top: 640px;
+        left: 261px;
+    }
+
+    .h2_2 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 1160px;
+        left: 261px;
+    }
+
+    .p_4 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1210px;
+        left: 261px;
+    }
+
+    .pic_2 {
+        position: absolute;
+        top: 1340px;
+        left: 261px;
+    }
+
+    .pic_3 {
+        position: absolute;
+        top: 1860px;
+        left: 261px;
+    }
+
+    .pic_4 {
+        position: absolute;
+        top: 2380px;
+        left: 261px;
+    }
+
+    .h2_3 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 2890px;
+        left: 261px;
+    }
+
+    .p_5 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 2940px;
+        left: 261px;
+    }
+
+    .pic_5 {
+        position: absolute;
+        top: 3110px;
+        left: 261px;
+    }
+
+    .h2_4 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 3370px;
+        left: 261px;
+    }
+
+    .p_6 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 3420px;
+        left: 261px;
+    }
+
+    .pic_6 {
+        position: absolute;
+        top: 3940px;
+        left: 261px;
+    }
+
+    .h2_5 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 4450px;
+        left: 261px;
+    }
+
+    .p_7 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 4499px;
+        left: 261px;
+    }
+
+    .pic_7 {
+        position: absolute;
+        top: 4650px;
+        left: 261px;
+    }
+
+    .h2_6 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 4750px;
+        left: 261px;
+    }
+
+    .p_8 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 4799px;
+        left: 261px;
+    }
+
+    .pic_8 {
+        position: absolute;
+        top: 4960px;
+        left: 261px;
+    }
+
+    .h2_7 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        top: 5850px;
+        left: 261px;
+    }
+
+    .p_9 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 5900px;
+        left: 261px;
+    }
+
+    .pic_9 {
+        position: absolute;
+        top: 6080px;
+        left: 261px;
+    }
+}
+
+.footer {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-bottom: 55px;
+    top: 6700px;
+}

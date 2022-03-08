@@ -1,0 +1,205 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding-right: 85px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.home_b {
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 1920px) {
+    h1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 200px;
+        left: 261px;
+    }
+    
+    .p_1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 260px;
+        left: 261px;
+        font-weight: 700;
+    }
+    
+    .p_2 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 290px;
+        left: 261px;
+    }
+    
+    .h2_1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 420px;
+        left: 261px;
+    }
+    
+    .p_3 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 470px;
+        left: 261px;
+    }
+    
+    .pic_1 {
+        position: relative;
+        top: 600px;
+        left: -199px;
+    }
+    
+    .h2_2 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 950px;
+        left: 261px;
+    }
+    
+    .p_4 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1000px;
+        left: 261px;
+    }
+    
+    .pic_2 {
+        position: relative;
+        top: 810px;
+        left: 261px;
+    }
+    
+    .p_5 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1185px;
+        left: 261px;
+    }
+    
+    .p_6 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1215px;
+        left: 261px;
+    }
+    
+    .p_7 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1355px;
+        left: 261px;
+    }
+    
+    .p_8 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1385px;
+        left: 261px;
+    }
+    
+    .h2_3 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1530px;
+        left: 261px;
+    }
+    
+    .p_9 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1580px;
+        left: 261px;
+    }
+    
+    .p_10 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1760px;
+        left: 261px;
+        border: 1px solid #707070;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: 700;
+        padding-right: 42px;
+    }
+    
+    .p_11 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1870px;
+        left: 261px;
+        border: 1px solid #707070;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: 700;
+        padding-right: 40px;
+    }
+    
+    .p_12 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1980px;
+        left: 261px;
+        border: 1px solid #707070;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: 700;
+        padding-right: 44px;
+    }
+    
+    .p_13 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 2140px;
+        left: 261px;
+        border: 1px solid #707070;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: 700;
+        padding-right: 60px;
+    }
+    
+    .p_14 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 2275px;
+        left: 261px;
+        border: 1px solid #707070;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: 700;
+        padding-right: 33px;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .pic_2 {
+        position: relative;
+        top: 810px;
+        left: 261px;
+    }
+}
+
+.footer {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-bottom: 55px;
+    top: 2400px;
+}

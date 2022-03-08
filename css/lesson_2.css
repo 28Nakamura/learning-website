@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding-right: 85px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.home_b {
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 1920px) {
+    h1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 200px;
+        left: 261px;
+    }
+    
+    .p_1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 260px;
+        left: 261px;
+        font-weight: 700;
+    }
+    
+    .p_2 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 290px;
+        left: 261px;
+    }
+    
+    .h2_1 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 400px;
+        left: 261px;
+    }
+    
+    .p_3 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 440px;
+        left: 261px;
+    }
+    
+    .pic_1 {
+        position: relative;
+        top: 670px;
+        left: -199px;
+    }
+    
+    .pic_2 {
+        position: relative;
+        top: 670px;
+        left: -190px;
+    }
+    
+    .pic_3 {
+        position: relative;
+        top: 670px;
+        left: -180px;
+    }
+    
+    .pic_4 {
+        position: relative;
+        top: 670px;
+        left: -170px;
+    }
+    
+    .h2_2 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 770px;
+        left: 261px;
+    }
+    
+    .p_4 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 810px;
+        left: 261px;
+    }
+    
+    .p_5 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 985px;
+        left: 261px;
+        font-weight: 700;
+        border: 1px solid #707070;
+        border-radius: 10px;
+        padding: 20px;
+    }
+    
+    .p_6 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 985px;
+        left: 550px;
+        font-weight: 700;
+        border: 1px solid #707070;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .p_7 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1116px;
+        left: 261px;
+        font-weight: 700;
+        border: 1px solid #707070;
+        border-radius: 10px;
+        padding: 20px;
+        padding-right: 62px;
+        padding-bottom: 43px;
+    }
+
+    .p_8 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        top: 1116px;
+        left: 550px;
+        font-weight: 700;
+        border: 1px solid #707070;
+        border-radius: 10px;
+        padding: 20px;
+        padding-right: 35px;
+    }
+
+    .h2_3 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        position: absolute;
+        left: 261px;
+        top: 1250px;
+    }
+
+    .p_9 {
+        font-family: 'Prompt', sans-serif;
+        position: absolute;
+        left: 261px;
+        top: 1290px;
+    }
+
+    .pic_5 {
+        position: absolute;
+        top: 1505px;
+        left: 261px;
+    }
+
+    .h2_4 {
+        position: absolute;
+        left: 261px;
+        top: 1710px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+    }
+    
+    .p_10 {
+        position: absolute;
+        left: 261px;
+        top: 1750px;
+        font-family: 'Prompt', sans-serif;
+    }
+
+    .p_11 {
+        position: absolute;
+        left: 261px;
+        top: 1800px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        border-top: 20px solid #8A8787;
+        background-color: #ECECEC;
+        padding: 25px;
+    }
+
+    .p_12 {
+        position: absolute;
+        left: 261px;
+        top: 1990px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        border-top: 20px solid #8A8787;
+        background-color: #ECECEC;
+        padding: 25px;
+        padding-right: 48px;
+    }
+
+    .p_13 {
+        position: absolute;
+        left: 261px;
+        top: 2180px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        border-top: 20px solid #8A8787;
+        background-color: #ECECEC;
+        padding: 25px;
+        padding-right: 48px;
+    }
+
+    .p_14 {
+        position: absolute;
+        left: 261px;
+        top: 2368px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: 700;
+        border-top: 20px solid #8A8787;
+        background-color: #ECECEC;
+        padding: 25px;
+        padding-right: 40px;
+    }
+}
+
+.footer {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-bottom: 55px;
+    top: 2550px;
+}

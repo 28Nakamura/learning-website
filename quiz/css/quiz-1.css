@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.quiz-container {
+    position: absolute;
+    left: 20px;
+    top: 1px;
+    font-family: 'Prompt', sans-serif;
+}
+
+.quiz-list {
+    list-style: none;
+    position: relative;
+    left: -40px;
+    top: -10px;
+}
+
+.btn {
+    top: 250px;
+    left: 20px;
+    position: fixed;
+    border: 0px;
+    background-color: darkgray;
+    padding: 10px;
+    width: 218px;
+    display: block;
+    cursor: pointer;
+}
+
+.re-btn {
+    top: 250px;
+    left: 262px;
+    position: fixed;
+    border: 0px;
+    background-color: darkgray;
+    padding: 10px;
+    width: 218px;
+    display: block;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: pink;
+}
